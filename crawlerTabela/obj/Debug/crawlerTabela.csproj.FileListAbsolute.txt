@@ -1,0 +1,44 @@
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.exe.config
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.exe
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.pdb
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csprojAssemblyReference.cache
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.Form1.resources
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.Properties.Resources.resources
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.GenerateResource.cache
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.CoreCompileInputs.cache
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.exe
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.pdb
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Cognizant\source\repos\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.CopyComplete
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.exe.config
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.exe
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.pdb
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.AssemblyReference.cache
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.Form1.resources
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.Properties.Resources.resources
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.GenerateResource.cache
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.CoreCompileInputs.cache
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.CopyComplete
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.exe
+C:\Users\Paula Petronilho\Desktop\Paula\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.pdb
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.exe.config
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.exe
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\bin\Debug\crawlerTabela.pdb
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.AssemblyReference.cache
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.Form1.resources
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.Properties.Resources.resources
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.GenerateResource.cache
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.CoreCompileInputs.cache
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.csproj.CopyComplete
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.exe
+C:\Users\Paula Petronilho\Desktop\Paula\projetos que funcionam\crawlerTabela\crawlerTabela\obj\Debug\crawlerTabela.pdb
